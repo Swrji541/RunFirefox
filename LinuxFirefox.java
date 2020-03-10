@@ -1,4 +1,4 @@
-
+# This smaall programme is only demonstration to execute firefox on linux system.
 import java.lang.Process;
 
 public class LinuxFirefox {
